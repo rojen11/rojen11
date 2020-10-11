@@ -12,7 +12,4 @@ I am currently doing my internship and waiting for college. I am interested in g
 
 <br/>
 
-<a href="https://github.com/rojen11">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojen11&theme=radical" />
-</a>
 </div>
