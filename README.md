@@ -5,3 +5,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rojen11&show_icons=true&include_all_commits=true)](https://github.com/rojen11/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojen11&layout=compact)](https://github.com/rojen11/github-readme-stats)
+[![An image of @rojen11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rojen11)](https://holopin.io/@rojen11)
