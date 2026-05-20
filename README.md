@@ -1,8 +1,11 @@
-## Hey 👋, This is Rojen Maharjan
-[![Gmail Badge](https://img.shields.io/badge/-maharjan.rojen11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maharjan.rojen11@gmail.com)](mailto:maharjan.rojen11@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rojen11-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojen11/)](https://www.linkedin.com/in/rojen11/) [![Github Badge](https://img.shields.io/badge/-rojen11-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rojen11/)](https://www.github.com/rojen11/) [![Twitter Badge](https://img.shields.io/badge/-11rojen11-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/11rojen11/)](https://www.twitter.com/11rojen11/) <p align='left'>I am currently doing my undergraduate in Bachelor in Computer Application (BCA). I am interested in game development and learning new technologies.</p>
-## Some of my Github Stats
+<h1 align="center">Rojen Maharjan</h1>
+<p align="center">Software Engineer · Nepal</p>
+<p align="center">
+  <a href="https://linkedin.com/in/rojen11">LinkedIn</a> ·
+  <a href="https://twitter.com/11rojen11">Twitter / X</a> ·
+  <a href="mailto:maharjan.rojen11@gmail.com">Email</a>
+</p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rojen11&show_icons=true&include_all_commits=true)](https://github.com/rojen11/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojen11&layout=compact)](https://github.com/rojen11/github-readme-stats)
-[![An image of @rojen11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rojen11)](https://holopin.io/@rojen11)
+---
+
+I'm a software engineer with over 5 years of experience, based in Nepal, building full-stack and cross-platform applications across backend systems, web frontends, mobile apps, and embedded hardware.
