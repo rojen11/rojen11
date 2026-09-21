@@ -2,7 +2,6 @@
 <p align="center">Software Engineer · Nepal</p>
 <p align="center">
   <a href="https://linkedin.com/in/rojen11">LinkedIn</a> ·
-  <a href="https://twitter.com/11rojen11">Twitter / X</a> ·
   <a href="mailto:maharjan.rojen11@gmail.com">Email</a>
 </p>
 
